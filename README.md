@@ -4,7 +4,7 @@
   <img src="http://viniciusrochalima.com.br/image/banner_vinil.jpg" >
 </p>
 
-# Vinincius Rocha Lima
+# Vinicius Rocha Lima
 <sub>*Lead Data Scientist* @Empowerdata</sub>
 
 Possuo sólidos conhecimentos em estatística e um ótimo senso analítico, características que me proporcionam um certo grau de conforto nas atividades que exerço. Minha principal habilidade está em entender e organizar os dados para então à partir deles criar análises precisas sobre todas as áreas de atuação da empresa, agregando valor e gerando informações consistentes e confiáveis para o processo de tomada de decisões.

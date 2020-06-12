@@ -23,7 +23,7 @@ Trabaho profissionalmente na área de dados desde 2003.
 ## Projetos:
 Projetos pessoais de Data Science:
 
-* **Empowerdata Online Training Center:** http://www.empowerdata.com.br
+* **Empowerdata Online Training Center:** http://www.empowerdata.com.br/online
 
 ---
 
